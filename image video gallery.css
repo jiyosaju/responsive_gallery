@@ -1,0 +1,13 @@
+img:hover{
+            border: 5px dashed yellow !important;
+            transform: scale(0.9);
+}
+img{
+     transition: 3s;
+}
+.box:hover{
+       transform:scale(1.1)
+}
+.box{
+     transition: 2s;
+}
